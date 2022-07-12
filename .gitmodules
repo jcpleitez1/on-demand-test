@@ -1,0 +1,3 @@
+[submodule "ambulnz-release"]
+	path = ambulnz-release
+	url = git@github.com:AmbulnzLLC/ambulnz-release.git
